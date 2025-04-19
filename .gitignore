@@ -17,3 +17,6 @@ logs/
 # Env
 .env
 .env.local
+_template/
+_template/
+
